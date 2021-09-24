@@ -145,4 +145,4 @@ You can align more than two models, just select the others with `Ctrl` + click.
 
 So far you've interacted with basic shape models to learn about Ignition's GUI.
 It's also possible to insert more detailed models from [Ignition Fuel](https://app.ignitionrobotics.org) into the GUI.
-Check out the [Model Insertion from Fuel](fuel_insert) tutorial to learn how.
+Check out the [Model Insertion from Fuel](model_insertion_fuel) tutorial to learn how.

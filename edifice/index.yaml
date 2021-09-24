@@ -61,8 +61,8 @@ pages:
         file: GUI_tutorial.md
       - name: manipulating_models
         title: Manipulating Models
-        file: Manipulating_models.md
-      - name: fuel_insert
+        file: manipulating_models.md
+      - name: model_insertion_fuel
         title: Model Insertion from Fuel
         file: Model_insertion_fuel.md
       - name: hotkeys

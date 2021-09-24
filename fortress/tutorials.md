@@ -12,7 +12,7 @@ These tutorials cover general concepts to help get you started with Ignition.
 
 * [Understanding the GUI](gui)
 * [Manipulating Models](manipulating_models)
-* [Model Insertion from Fuel](fuel_insert)
+* [Model Insertion from Fuel](model_insertion_fuel)
 * [Keyboard Shortcuts](hotkeys)
 
 ## Basics tutorials

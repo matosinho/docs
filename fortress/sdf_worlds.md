@@ -235,7 +235,7 @@ Instead of building our own models we can use already built ones. [Ignition Fuel
 
 ### Drag and drop the model
 
-Adding models to a world typically means adding them into your world sdf file, but with Fuel you can drag and drop existing models directly into the scene. Checkout this [tutorial](fuel_insert) on how to add models to your world by drag and drop.
+Adding models to a world typically means adding them into your world sdf file, but with Fuel you can drag and drop existing models directly into the scene. Checkout this [tutorial](model_insertion_fuel) on how to add models to your world by drag and drop.
 
 ### Include the model URI
 
